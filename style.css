@@ -3,5 +3,30 @@ body {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: yellow;
-    background-image: linear-gradient(blue, white)
+    background: black
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  img {
+    display: block;
+    margin: auto;
+  }
+  
+  figcaption{
+    text-align: center;
+    font-size: 12px;
+  }
+  
+  nav {
+    text-align: center;
+  }
+  
+  nav a {
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgb(244, 9, 9);
+    margin: auto;
   }
