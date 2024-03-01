@@ -1,9 +1,10 @@
 body {
     
+    background: url(https://cdna.artstation.com/p/assets/images/images/057/220/458/medium/toby-zimmer-img-fa-eldenring-landscape-01.jpg?1671067725);
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: yellow;
-    background: black
+    background-size: cover;
   }
 
   h1 {
