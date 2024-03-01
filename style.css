@@ -11,6 +11,7 @@ body {
   }
   
   img {
+    align-items: center;
     display: block;
     margin: auto;
   }
@@ -29,4 +30,29 @@ body {
     padding-right: 10px;
     background-color: rgb(244, 9, 9);
     margin: auto;
+  }
+
+ 
+
+  h2 {
+    text-align: center;
+    color: orangered
+  }
+
+  ul {
+    text-align: left;
+  }
+
+  .picked-components {
+    color: firebrick;
+  }
+
+  #enemies {
+    color: yellow;
+    font-size: 20px;
+  }
+
+  #enemies div {
+    float: left;
+    width: 50%;
   }
