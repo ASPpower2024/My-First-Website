@@ -3,6 +3,9 @@ h2.textContent = "Enemies to Use Against"
 
 document.querySelector("body").appendChild(h2);
 
+
+
+
 const input = document.getElementById('myImage');
 
 function clickAlert() {
